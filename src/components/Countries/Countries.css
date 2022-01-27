@@ -1,0 +1,11 @@
+.all-countries-box{
+    width:95%;
+    margin: 0 auto;
+    display: flex;
+
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.countries-box img{
+    width:100%;
+}
